@@ -20,9 +20,9 @@ body {
 /* Warna & posisi text yayasan */
 .logo {
   position: absolute;
-  left: 1000px;
+  left: 990px;
   bottom: 0;
-  top: 30px;
+  top: 5px;
   color: red;
   font-size: 30px;
   
